@@ -1,0 +1,4 @@
+import os,sys 
+os.system(". ./scriptname.ksh")
+python command to run  unix script scriptname.ksh 
+I have tested this part on PUTTY dev 
